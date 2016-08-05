@@ -1,4 +1,4 @@
-{application, gcm_erl, [
+{application, gcm, [
     {description, "An Erlang client for Google Cloud Messaging (GCM)"},
     {vsn, "1.0.1"},
     {registered, [gcm_sup]},
